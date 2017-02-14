@@ -19,4 +19,9 @@ public class ChatActivity extends AppCompatActivity implements ChatView {
     public void init() {
         chatPresenter = new ChatPresenter(this);
     }
+    // view
+    @Override
+    public void updateListView() {
+
+    }
 }

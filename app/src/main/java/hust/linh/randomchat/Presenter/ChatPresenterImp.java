@@ -5,5 +5,6 @@ package hust.linh.randomchat.Presenter;
  */
 
 public interface ChatPresenterImp {
-
+    void onSendButtonClick();
+    void onConnect();
 }

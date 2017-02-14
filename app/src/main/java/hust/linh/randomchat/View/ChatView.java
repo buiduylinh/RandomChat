@@ -5,4 +5,5 @@ package hust.linh.randomchat.View;
  */
 
 public interface ChatView {
+    void updateListView();
 }
