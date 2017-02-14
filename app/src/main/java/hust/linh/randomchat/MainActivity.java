@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         ///////dâdadadada
         System.out.println("xin chao");
         //ba noi may
+        System.out.println("hi ban");
     }
 }
